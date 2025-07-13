@@ -1,5 +1,7 @@
-# Zustand + React + Vite
-> Example from documentation : https://refine.dev/blog/zustand-react-state/#getting-started-with-zustand
+# Zustand + React Example from documentation
+> https://refine.dev/blog/zustand-react-state/#getting-started-with-zustand
+
+> See live demo: https://react-zustand-counter.vercel.app/
 
 ```JS
 import { create } from "zustand";
