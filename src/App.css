@@ -1,6 +1,5 @@
 .mini-container {
-  max-width: 300px;
-  text-align: center;
+  max-width: 360px;
 }
 .delay-1000 {
   animation-delay: 1000ms;
@@ -20,4 +19,7 @@
     opacity: 1;
     transform: scale(1);
   }
+}
+.text-sm {
+  font-size: 0.8rem;
 }

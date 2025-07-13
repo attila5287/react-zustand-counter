@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import "./App.css";
-import "bootswatch/dist/slate/bootstrap.min.css";
+import "bootswatch/dist/vapor/bootstrap.min.css";
 import Header from "./components/Header";
 import CounterControl from "./components/CounterControl";
 import DisplayChar from "./components/DisplayChar";
